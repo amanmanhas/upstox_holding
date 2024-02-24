@@ -1,11 +1,12 @@
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 02](https://github.com/amanmanhas/upstox_holding/assets/29324035/8f7ff8ed-e745-4587-b78f-7f85f37350a4)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
-## Upstox Dark Mode & Light Mode screensots
+## Upstox Light Mode & Dark Mode screensots
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 02](https://github.com/amanmanhas/upstox_holding/assets/29324035/8f7ff8ed-e745-4587-b78f-7f85f37350a4)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 02](https://github.com/amanmanhas/upstox_holding/assets/29324035/f63a11b2-5063-42f7-a098-f9da72cda0b5)
 
->**Note**: Make sure you![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 31](https://github.com/amanmanhas/upstox_holding/assets/29324035/3ba5a807-3b97-4d7f-96c8-89ce2dc81b58)
+>**Note**: Make sure you
  have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
