@@ -3,8 +3,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 ## Upstox Light Mode & Dark Mode screensots
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 31](https://github.com/amanmanhas/upstox_holding/assets/29324035/102796cd-e348-4c5d-8a6e-88f08fd568ec)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 02](https://github.com/amanmanhas/upstox_holding/assets/29324035/8f7ff8ed-e745-4587-b78f-7f85f37350a4)
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 02](https://github.com/amanmanhas/upstox_holding/assets/29324035/f63a11b2-5063-42f7-a098-f9da72cda0b5)
 
 >**Note**: Make sure you
  have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
@@ -69,8 +70,7 @@ You've successfully run and modified your React Native App. :partying_face:
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
 
-# Troubleshooting![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 31](https://github.com/amanmanhas/upstox_holding/assets/29324035/102796cd-e348-4c5d-8a6e-88f08fd568ec)
-
+# Troubleshooting
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
