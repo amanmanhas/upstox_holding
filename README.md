@@ -2,7 +2,13 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Upstox Light Mode & Dark Mode screensots
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 31](https://github.com/amanmanhas/upstox_holding/assets/29324035/102796cd-e348-4c5d-8a6e-88f08fd568ec)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-25 at 00 59 02](https://github.com/amanmanhas/upstox_holding/assets/29324035/8f7ff8ed-e745-4587-b78f-7f85f37350a4)
+
+>**Note**: Make sure you
+ have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
